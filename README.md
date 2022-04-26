@@ -16,7 +16,7 @@
 - **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
 
-                                                           💬 Ask About Me.
+                                                 💬 Ask About Me.
    [![new-twitter-logo-05.jpg](https://i.postimg.cc/Tw10JGYF/new-twitter-logo-05.jpg)](https://twitter.com/Joachim_Chisom)
 
                                                      
