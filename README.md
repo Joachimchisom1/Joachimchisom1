@@ -3,7 +3,7 @@
  [![joachimchisom.jpg](https://i.postimg.cc/SNS99Y5j/joachimchisom.jpg)](https://postimg.cc/WtytLzsP)
  
  
-   Am an **Experienced software Engineer** with a passion for developing innovative programs
+   I am an **Experienced software Engineer** with a passion for developing innovative programs
    and software solutions that meet business demand. Well-equipped in technology, write
    code to create systems that are *reliable, Self-Motivated with a strong technical background
    who possesses self-discipline,* having the ability to organize and present complex solutions
