@@ -1,6 +1,6 @@
    # Hi, I'm Joachim Chisom. 
  ## **ABOUT ME**
-   ![my image](https://pbs.twimg.com/profile_images/1487081070378070023/nzlX2AuZ_400x400.jpg)
+ [![joachimchisom.jpg](https://i.postimg.cc/SNS99Y5j/joachimchisom.jpg)](https://postimg.cc/WtytLzsP)
  
  
    Am an **Experienced software Engineer** with a passion for developing innovative programs
@@ -15,6 +15,11 @@
 - **🔭 I’m currently working on:** An NFTs Marketplace🏦 Project and A E-commece Project.
 - **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
+
+                                                           💬 Ask About Me.
+   [![new-twitter-logo-05.jpg](https://i.postimg.cc/Tw10JGYF/new-twitter-logo-05.jpg)](https://twitter.com/Joachim_Chisom)
+
+                                                     
 
 <!--
 **Joachimchisom1/Joachimchisom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
