@@ -1,5 +1,7 @@
    # Hi, I'm Joachim Chisom. 
   <h2 align="center"> About Me..</h2>
+  
+  <p align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kc92x46t/image.jpg' border='0' alt='image'/></a></p>
  
    I'm an **Experienced software Engineer** with a passion for developing innovative programs
    and software solutions that meets business demand. Well-equipped in technology, write
