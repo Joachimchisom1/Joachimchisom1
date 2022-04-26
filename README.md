@@ -1,6 +1,9 @@
    # Hi, I'm Joachim Chisom. 
- ## **ABOUT ME**
- [![joachimchisom.jpg](https://i.postimg.cc/SNS99Y5j/joachimchisom.jpg)](https://postimg.cc/WtytLzsP)
+  <h2 align="center"> About Me..</h2>
+ 
+  <p align="center">
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kc92x46t/image.jpg' border='0' alt='image'/></a>
+  </p>
  
  
    I'm an **Experienced software Engineer** with a passion for developing innovative programs
@@ -16,7 +19,8 @@
 - **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
 
-                                                 💬 Contact Me..
+  <h2 align="center">💬 Contact Me..</h2>
+  
    [![new-twitter-logo-05.jpg](https://i.postimg.cc/Tw10JGYF/new-twitter-logo-05.jpg)](https://twitter.com/Joachim_Chisom)
 
                                                      
