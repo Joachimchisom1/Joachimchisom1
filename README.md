@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Joachim Chisom.
+- 👩‍💻 What I Do: I am a Full Stack Web Developer, Blockchain Developer and Open source contributer.
+- - 🔭 I’m currently working on: An NFTs Marketplace Project and A E-commece Project.
 
 <!--
 **Joachimchisom1/Joachimchisom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
