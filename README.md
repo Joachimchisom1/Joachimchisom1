@@ -1,4 +1,4 @@
-                                                             Hi, I'm Joachim Chisom. 
+                                                         Hi, I'm Joachim Chisom. 
  ## **ABOUT ME**
       Am an Experienced software Engineer with a passion for developing innovative programs
       and software solutions that meet business demand. Well-equipped in technology, write
