@@ -12,7 +12,7 @@
    Working in a Team or working alone are both fine for me and I like keeping myself busy.**
       
 - **👨🏻‍💻 What I Do:** I am a Full Stack Web Developer, Blockchain Developer and Open source contributor.
-- **🔭 I’m currently working on:** An NFTs Marketplace🏦 Project and  E-commece Project.
+- **🔭 I’m currently working on:** An Project and  E-commece Platform .
 - **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
 
