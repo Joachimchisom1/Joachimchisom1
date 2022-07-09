@@ -8,11 +8,13 @@
    code to create systems that are reliable. Self-Motivated with a strong technical background
    who self-discipline, having the ability to organize and present complex solutions
    clearly.
+   
+   
    **I Love to build new projects just to tickle my brain and I Love learning new technologies.
    Working in a Team or working alone are both fine for me and I like keeping myself busy.**
       
 - **👨🏻‍💻 What I Do:** I am a Full Stack Web Developer, Blockchain Developer and Open source contributor.
-- **🔭 I’m currently working on:** An Project and  E-commece Platform .
+- **🔭 I’m currently working on:** An  E-commece Platform .
 - **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
 
