@@ -3,10 +3,9 @@
   
   <p align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kc92x46t/image.jpg' border='0' alt='image'/></a></p>
  
-   I'm an **Experienced software Engineer** with a passion for developing innovative programs
-   and software solutions that meets business demand. Well-equipped in technology, write
-   code to create systems that are reliable. Self-Motivated with a strong technical background
-   who self-discipline, having the ability to organize and present complex solutions
+   I'm an **Experienced software Engineer, Blockchain Enthusiast, Entrepreneur** with a passion for developing innovative programs
+   and software solutions that meets business demand. Am Well-equipped in technology, I write
+   codes to create systems that are reliable. Am Self-Motivated with a strong technical background having the ability to organize and present complex solutions
    clearly.
    
    
