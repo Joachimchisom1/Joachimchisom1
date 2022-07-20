@@ -11,7 +11,7 @@
       
 - **👨🏻‍💻 What I Do:** I am a Full Stack Web Developer, Blockchain Developer, Open source developer and an Entrepreneur.
 - **🔭 I’m currently working on:** An  E-commece Platform .
-- **👨‍🏫 I’m currently learning:** Blockchain Technology, Nodejs, APIs.
+- **👨‍🏫 I’m currently learning:** Blockchain Technology,Mechanic leaning, Nodejs, APIs.
 -  🏻‍💻 I’m looking to collaborate on Any Project that comes my way.
 
   <h2 align="center">💬 Contact Me..</h2>
