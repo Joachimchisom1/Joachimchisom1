@@ -1,4 +1,4 @@
-   # Hi, I'm Joachim Chisom. 
+   # Hi, I'm Chisom Joachim. 
   <h2 align="center"> About Me..</h2>
   
   <p align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kc92x46t/image.jpg' border='0' alt='image'/></a></p>
