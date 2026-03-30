@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chisom Joachim  
 
-<h3 align="center">Software Engineer AI Systems Engineer | Full-Stack SaaS Developer</h3>
+<h3 align="center">Software Engineer | AI Systems Engineer | Full-Stack SaaS Developer</h3>
 
 ---
 
