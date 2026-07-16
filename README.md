@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Chisom Joachim  
+<h1 align="center">👋 Hi, I'm Chisom Joachim , A Software Engineer | AI Systems Engineer</h1>
 
-<h3 align="center">💻 Software Engineer | AI Systems Engineer</h3>
-
-🚀 What I Do  
+<h2>🚀 What I Do </h2>
 
 I Help E-commerce Brands & SaaS Startups Build, Launch & Scale with AI, Software Development, and Growth Marketing. Exploring AI & Robotics  
 
@@ -11,7 +9,7 @@ I Help E-commerce Brands & SaaS Startups Build, Launch & Scale with AI, Software
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joachimchisom1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Joachimchisom1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -19,14 +17,14 @@ I Help E-commerce Brands & SaaS Startups Build, Launch & Scale with AI, Software
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joachimchisom1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joachimchisom1&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joachimchisom1&theme=tokyonight&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joachimchisom1&theme=tokyonight" />
 </p>
 
-## 🌐 Socials
+<h2>🌐 Socials</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mr.chisomjoachim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr.chisomjoachim)
